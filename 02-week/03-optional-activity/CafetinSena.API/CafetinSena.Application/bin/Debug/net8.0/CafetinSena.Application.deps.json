@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CafetinSena.Application/1.0.0": {
+        "dependencies": {
+          "CafetinSena.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CafetinSena.Application.dll": {}
+        }
+      },
+      "CafetinSena.Domain/1.0.0": {
+        "runtime": {
+          "CafetinSena.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CafetinSena.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CafetinSena.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
