@@ -1,0 +1,19 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+*.db
+*.cache
+*.log
+*.sqlite
+
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Otros archivos temporales
+*.dll
+*.exe
+*.pdb
+*.tmp
