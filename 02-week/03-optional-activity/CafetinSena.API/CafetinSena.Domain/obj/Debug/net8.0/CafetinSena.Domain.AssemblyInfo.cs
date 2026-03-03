@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CafetinSena.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7759600acb63aec1934adfbb4a18a6fd97333a2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6ac046b8ee07dedd549955c2c288498ae35f25")]
 [assembly: System.Reflection.AssemblyProductAttribute("CafetinSena.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CafetinSena.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

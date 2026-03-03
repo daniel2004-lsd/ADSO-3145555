@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wi3XiOPTQv4=",
+  "dgSpecHash": "t8YitFdFzhg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\CafetinSena.API\\CafetinSena.Infrastructure\\CafetinSena.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\ADSO-3145555\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Infrastructure\\CafetinSena.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -20,3 +20,15 @@ C:\Users\USUARIO\Desktop\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\Caf
 C:\Users\USUARIO\Desktop\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\refint\CafetinSena.Domain.dll
 C:\Users\USUARIO\Desktop\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.pdb
 C:\Users\USUARIO\Desktop\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\ref\CafetinSena.Domain.dll
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\bin\Debug\net8.0\CafetinSena.Domain.deps.json
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\bin\Debug\net8.0\CafetinSena.Domain.dll
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\bin\Debug\net8.0\CafetinSena.Domain.pdb
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.sourcelink.json
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.dll
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\refint\CafetinSena.Domain.dll
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\CafetinSena.Domain.pdb
+C:\Users\USUARIO\source\repos\ADSO-3145555\02-week\03-optional-activity\CafetinSena.API\CafetinSena.Domain\obj\Debug\net8.0\ref\CafetinSena.Domain.dll

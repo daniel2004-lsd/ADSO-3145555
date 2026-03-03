@@ -4,6 +4,7 @@ using CafetinSena.Application.IService;
 using CafetinSena.Application.Service;
 using CafetinSena.Domain.Interfaces;
 using CafetinSena.Infrastructure.Repositories;
+using CafetinSena.Domain.Interfaces.IRepository;
 
 
 namespace CafetinSena.API
@@ -31,6 +32,8 @@ namespace CafetinSena.API
             builder.Services.AddSwaggerGen();
             builder.Services.AddScoped<IProductoService, ProductoService>();
             builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
+            builder.Services.AddScoped<IPedidoRepository , PedidoRepository>();
+            builder.Services.AddScoped<IPedidoService, PedidoService>();
 
             var app = builder.Build();
 
