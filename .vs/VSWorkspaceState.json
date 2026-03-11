@@ -1,10 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02-week",
-    "\\02-week\\03-optional-activity",
-    "\\03-week",
-    "\\03-week\\03-optional-activity"
+    "\\03-execution",
+    "\\03-execution\\02-week",
+    "\\03-execution\\02-week\\03-optional-activity",
+    "\\03-execution\\02-week\\03-optional-activity\\CafetinSena.API",
+    "\\03-execution\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.API",
+    "\\03-execution\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Application",
+    "\\03-execution\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Application\\DTOs",
+    "\\03-execution\\03-week",
+    "\\03-execution\\03-week\\03-optional-activity",
+    "\\03-execution\\03-week\\03-optional-activity\\CafetinSena.API"
   ],
+  "SelectedNode": "\\03-execution\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.API",
   "PreviewInSolutionExplorer": false
 }

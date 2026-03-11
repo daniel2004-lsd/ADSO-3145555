@@ -44,10 +44,8 @@
               "RelativeDocumentMoniker": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\DetallePedido.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ADSO-3145555\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\DetallePedido.cs",
               "RelativeToolTip": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\DetallePedido.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T02:19:04.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T02:19:04.913Z"
             },
             {
               "$type": "Document",
@@ -57,10 +55,8 @@
               "RelativeDocumentMoniker": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\Producto.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ADSO-3145555\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\Producto.cs",
               "RelativeToolTip": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T01:48:06.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T01:48:06.493Z"
             },
             {
               "$type": "Document",
@@ -70,10 +66,8 @@
               "RelativeDocumentMoniker": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\Pedido.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ADSO-3145555\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\Pedido.cs",
               "RelativeToolTip": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Domain\\Entities\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T01:47:15.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T01:47:15.548Z"
             },
             {
               "$type": "Document",
@@ -83,10 +77,8 @@
               "RelativeDocumentMoniker": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.API\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ADSO-3145555\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.API\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.API\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T15:59:51.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T15:59:51.64Z"
             },
             {
               "$type": "Document",
@@ -96,10 +88,8 @@
               "RelativeDocumentMoniker": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Application\\IService\\IProductoService.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ADSO-3145555\\02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Application\\IService\\IProductoService.cs",
               "RelativeToolTip": "02-week\\03-optional-activity\\CafetinSena.API\\CafetinSena.Application\\IService\\IProductoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T15:59:00.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T15:59:00.287Z"
             }
           ]
         }
